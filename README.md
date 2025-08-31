@@ -1,4 +1,6 @@
 # ExplorerBlurMica
+<img width="1239" height="732" alt="{6A7E843C-41F7-447B-8149-5CF39E5A2A62}" src="https://github.com/user-attachments/assets/d41f5769-f694-4314-bd1f-9c19f18be099" />
+
 
 ## 📖 Cách sử dụng (Tiếng Việt)
 1. Chạy `register.cmd` với quyền **Administrator**.  
